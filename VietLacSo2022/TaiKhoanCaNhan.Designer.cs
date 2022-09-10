@@ -491,6 +491,7 @@
             // 
             this.pictureBox1.BackgroundImage = global::VietLacSo2022.Properties.Resources.home;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(73, 55);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(138, 138);
@@ -536,10 +537,10 @@
             this.simpleButton7.Appearance.Options.UseBackColor = true;
             this.simpleButton7.Cursor = System.Windows.Forms.Cursors.Hand;
             this.simpleButton7.Dock = System.Windows.Forms.DockStyle.Right;
-            this.simpleButton7.ImageOptions.Image = global::VietLacSo2022.Properties.Resources.bocustomer_32x321;
-            this.simpleButton7.Location = new System.Drawing.Point(901, 2);
+            this.simpleButton7.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("simpleButton7.ImageOptions.Image")));
+            this.simpleButton7.Location = new System.Drawing.Point(908, 2);
             this.simpleButton7.Name = "simpleButton7";
-            this.simpleButton7.Size = new System.Drawing.Size(51, 46);
+            this.simpleButton7.Size = new System.Drawing.Size(44, 46);
             this.simpleButton7.TabIndex = 2;
             // 
             // simpleButton6
